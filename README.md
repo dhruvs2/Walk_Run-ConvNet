@@ -1,2 +1,5 @@
 # Walk_Run-ConvNet <br>
-Data set at: <a> https://www.kaggle.com/huan9huan/walk-or-run </a>
+
+<p> Convolutional Nerual Network to predict whether an image is of a class walk or run. </p>
+<br>
+Dataset at: <a> https://www.kaggle.com/huan9huan/walk-or-run </a>
